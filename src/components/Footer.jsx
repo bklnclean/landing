@@ -81,24 +81,24 @@ function Footer() {
                         <div className="col-md-3">
                             <h4>Services</h4>
                             <ul>
-                                <li><a href="#">Apartment cleaning</a></li>
-                                <li><a href="#">Office cleaning</a></li>
-                                <li><a href="#">Deep cleaning</a></li>
-                                <li><a href="#">Window cleaning</a></li>
-                                <li><a href="#">Carpet and upholstery cleaning</a></li>
-                                <li><a href="#">Bathroom cleaning</a></li>
+                                <li><a href="/">Apartment cleaning</a></li>
+                                <li><a href="/">Office cleaning</a></li>
+                                <li><a href="/">Deep cleaning</a></li>
+                                <li><a href="/">Window cleaning</a></li>
+                                <li><a href="/">Carpet and upholstery cleaning</a></li>
+                                <li><a href="/">Bathroom cleaning</a></li>
                             </ul>
                         </div>
 
                         <div className="col-md-3">
                             <h4>Additional</h4>
                             <ul >
-                                <li><a href="#">Discount</a></li>
-                                <li><a href="#">Subscribes</a></li>
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#">Contacts</a></li>
-                                <li><a href="#">Privacy policy</a></li>
-                                <li><a href="#">Terms and conditions</a></li>
+                                <li><a href="/">Discount</a></li>
+                                <li><a href="/">Subscribes</a></li>
+                                <li><a href="/">About us</a></li>
+                                <li><a href="/">Contacts</a></li>
+                                <li><a href="/">Privacy policy</a></li>
+                                <li><a href="/">Terms and conditions</a></li>
                             </ul>
                         </div>
 
